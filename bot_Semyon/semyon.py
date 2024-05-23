@@ -1,7 +1,7 @@
 import threading
 import requests
 
-TOKEN = '7132372252:AAEEJZZPywBVq850Oe6QljOSXOh-iyaAvec'
+TOKEN = 'YOUR-TOKEN'
 
 
 def send_message(chat_id, text):
