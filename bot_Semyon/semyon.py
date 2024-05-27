@@ -33,7 +33,7 @@ def read_messages():
 
 
 def send_message_console():
-    chat_id = '1111976672'
+    chat_id = 'YOUR CHAT ID'
     text = input("Введите текст сообщения: ")
 
     send_message(chat_id, text)
